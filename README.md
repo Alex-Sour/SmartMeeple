@@ -4,7 +4,7 @@ There is **SmartMeeple™ for Tabletop Simulator**, **SmartMeeple™ for Unity**
 # License
 You can use this for non-commercial purposes **IF** you:
 
-1. *Ask me, you can contact me on **Discord** by `Alex_Sour#1856`*
+1. *Ask me, you can contact me on **Discord** by `Alex_Sour#8061`*
 2. *Give credit*
 
 I can revoke this or modify these terms **ANYTIME** and for **ANY REASON**.
